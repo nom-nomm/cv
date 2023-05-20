@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+}
+hr {
+    border-style: dotted none none;
+    width: 10%;
+    border-width: 10px;
+    border-color: burlywood;
+}
+
+h1 {
+    color: burlywood;
+}
+
+h3 {
+    color: burlywood;
+}
